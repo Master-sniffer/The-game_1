@@ -19,3 +19,9 @@ The game finishes in case if:
 2)One of the players decides to surrender
 
 3)If one of the players has already conquared more than 50 % of the field.
+
+
+
+
+
+theme: jekyll-theme-slate
